@@ -1,4 +1,4 @@
--- Alunos: Pedro Ivo, João Miguel Salvalagio e Gabriel Trabuco.
--- Professor: Eliel Nascimento.
--- Matéria: Programação Orientada a Objetos (POO).
--- Todos os requisitos entregues funcionais.
+- Alunos: Pedro Ivo, João Miguel Salvalagio e Gabriel Trabuco.
+- Professor: Eliel Nascimento.
+- Matéria: Programação Orientada a Objetos (POO).
+- Todos os requisitos entregues e funcionais.
